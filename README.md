@@ -53,18 +53,20 @@ pip install -r requirements.txt
 ### 2. Run the application:
 python src/el_mouse_kontrol.py
 
-Press Q to exit.
+### Press Q to exit.
 
 📝 Future Improvements
+
 Gesture-based scrolling
 
 More stable fingertip tracking
 
 Improved click detection logic
 
-Add configuration GUI (sensitivity, camera selection)
+Configuration GUI (sensitivity, camera selection)
 
 👤 Author
+
 Hatice Sude Mutlu
 Computer Engineering Student
 GitHub: https://github.com/HaticeSude
