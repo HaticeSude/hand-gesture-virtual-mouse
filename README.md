@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ### 2. Run the application:
 python src/el_mouse_kontrol.py
 
-### Press Q to exit.
+ Press Q to exit.
 
 ## 📝 Future Improvements
 
@@ -62,8 +62,8 @@ python src/el_mouse_kontrol.py
 - Improved click detection logic
 - Configuration GUI (sensitivity, camera selection)
 
-## 👤 Author
+## 👩‍💻 Author
 
-Hatice Sude Mutlu
-Computer Engineering Student
+**Hatice Sude Mutlu**  
+Computer Engineering Student  
 GitHub: https://github.com/HaticeSude
