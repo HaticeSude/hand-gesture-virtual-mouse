@@ -55,17 +55,14 @@ python src/el_mouse_kontrol.py
 
 ### Press Q to exit.
 
-📝 Future Improvements
+## 📝 Future Improvements
 
-Gesture-based scrolling
+- Gesture-based scrolling
+- More stable fingertip tracking
+- Improved click detection logic
+- Configuration GUI (sensitivity, camera selection)
 
-More stable fingertip tracking
-
-Improved click detection logic
-
-Configuration GUI (sensitivity, camera selection)
-
-👤 Author
+## 👤 Author
 
 Hatice Sude Mutlu
 Computer Engineering Student
