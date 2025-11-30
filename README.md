@@ -62,7 +62,7 @@ python src/el_mouse_kontrol.py
 - Improved click detection logic
 - Configuration GUI (sensitivity, camera selection)
 
-## 👩‍💻 Author
+## 👤 Author
 
 **Hatice Sude Mutlu**  
 Computer Engineering Student  
