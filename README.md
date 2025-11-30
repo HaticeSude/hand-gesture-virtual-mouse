@@ -28,13 +28,13 @@ It uses **OpenCV**, **MediaPipe**, and **PyAutoGUI** to recognize hand landmarks
 ---
 
 ## 📁 Project Structure
-
+```
 hand-gesture-virtual-mouse/
 │
 ├── src/
-│ ├── el_mouse_kontrol.py # Main file: cursor control and gesture detection
-│ ├── el_tespiti.py # Hand detection functions
-│ └── kamera_test.py # Webcam testing script
+│ ├── el_mouse_kontrol.py
+│ ├── el_tespiti.py
+│ └── kamera_test.py
 │
 ├── docs/
 │ ├── Mouse.png
@@ -43,11 +43,7 @@ hand-gesture-virtual-mouse/
 │
 ├── requirements.txt
 └── README.md
-
-yaml
-Kodu kopyala
-
----
+```
 
 ## ⚙️ Installation
 
