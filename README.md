@@ -32,9 +32,9 @@ It uses **OpenCV**, **MediaPipe**, and **PyAutoGUI** to recognize hand landmarks
 hand-gesture-virtual-mouse/
 │
 ├── src/
-│ ├── el_mouse_kontrol.py
-│ ├── el_tespiti.py
-│ └── kamera_test.py
+│ ├── el_mouse_kontrol.py  # Main file: cursor control + gesture actions
+│ ├── el_tespiti.py        # Hand detection functions
+│ └── kamera_test.py       # Webcam testing script
 │
 ├── docs/
 │ ├── Mouse.png
@@ -48,16 +48,12 @@ hand-gesture-virtual-mouse/
 ## ⚙️ Installation
 
 ### 1. Install dependencies:
-```bash
 pip install -r requirements.txt
-2. Run the application:
-bash
-Kodu kopyala
-python src/el_mouse_kontrol.py
-Press Q to exit.
 
-🖼️ Demo Images
-Move	Left Click	Double Click
+### 2. Run the application:
+python src/el_mouse_kontrol.py
+
+Press Q to exit.
 
 📝 Future Improvements
 Gesture-based scrolling
